@@ -1,6 +1,6 @@
 # Basic Controls:
 
-* Left-Click to connect Outputs (red) to Inputs (green)  
+* Left-Click to connect Outputs (green) to Inputs (red)  
   (you can also drag)
 * Right-Click on a red/green Node to delete its connections
 * Hover on machine icons to receive some help on how they work
